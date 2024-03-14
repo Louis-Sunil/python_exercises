@@ -1,5 +1,5 @@
 """ 
-S01Q02 program for Mutiplication table 17
+S01AQ02 program for Mutiplication table 17
 """
 
 def print_mtable():
