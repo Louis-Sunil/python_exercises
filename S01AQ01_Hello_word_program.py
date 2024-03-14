@@ -1,5 +1,5 @@
 """ 
-S01AQ01 : Hello World program to the user
+S01AQ01 : Hello World program to the user using user name as input
 """
 
 def get_username():
